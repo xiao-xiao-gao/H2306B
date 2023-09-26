@@ -1,3 +1,5 @@
 print(123)
 print(23456
 print(a good man))
+print(a cool)
+print(sjkshkhdlashf;whf)
